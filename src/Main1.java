@@ -2,7 +2,7 @@ import org.junit.Test;
 
 import java.util.HashMap;
 import java.util.Scanner;
-
+//design by zuogaocan
 public class Main1 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
